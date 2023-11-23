@@ -1,3 +1,7 @@
+#Nombres de Integrantes:
+#Edwin Ortega - 22305
+#Esteban Zambrano - 22119
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 
